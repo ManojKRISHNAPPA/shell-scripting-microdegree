@@ -1,0 +1,42 @@
+variable ares two types
+1) system defined variables
+	created and mainatined by os itself
+	capital letter
+	set command
+		set | grep BASH
+		BASH=/bin/bash
+		BASHOPTS=checkwinsize:cmdhist:complete_fullquote:expand_aliases:extglob:extquote:force_fignore:globasciiranges:globskipdots:histappend:interactive_comments:login_shell:patsub_replacement:progcomp:promptvars:sourcepath
+		BASH_ALIASES=()
+		BASH_ARGC=([0]="0") 
+2) user defined variables:
+	* created and maintained by the user
+	* this type variable are defined in lower letters
+	* both uppper and loweer combinations
+
+ex:
+root@ip-172-31-25-149:~# a="Manoj"
+root@ip-172-31-25-149:~# echo $a
+Manoj
+root@ip-172-31-25-149:~# Date="today"
+root@ip-172-31-25-149:~# echo $Date
+
+rules to define variables:
+
+1) varaiable names should contain only A-Z, a-z, 0-9 and _ character.
+2) variable length should be less than/ eqaul to 20 chrs
+3) varible is case senstive
+4) varibles should not start with numbers.
+
+
+ex: 
+	p=5   ---> work
+	p = 5 ---> it wont work
+	p= 5  ---> it wont work
+	1=1   ---> it wont work
+	myname=manoj --> it will work
+	myname=manoj k --> it wont work and here always it should be quotes
+	myname="manoj k" ---> it wil work
+	cdate=$(date) --> assigning command to variable
+		root@ip-172-31-25-149:~# echo $cdate
+		Thu Nov 7 02:40:45 UTC 2024
+	

@@ -1,0 +1,200 @@
+stress: info: [13060] dispatching hogs: 8 cpu, 0 io, 0 vm, 0 hdd
+stress: dbug: [13060] using backoff sleep of 24000us
+stress: dbug: [13060] setting timeout to 30000s
+stress: info: [13061] dispatching hogs: 8 cpu, 0 io, 0 vm, 0 hdd
+stress: dbug: [13061] using backoff sleep of 24000us
+stress: dbug: [13061] setting timeout to 30000s
+stress: dbug: [13061] --> hogcpu worker 8 [13063] forked
+stress: dbug: [13061] using backoff sleep of 21000us
+stress: dbug: [13061] setting timeout to 30000s
+stress: dbug: [13061] --> hogcpu worker 7 [13064] forked
+stress: dbug: [13061] using backoff sleep of 18000us
+stress: dbug: [13061] setting timeout to 30000s
+stress: dbug: [13060] --> hogcpu worker 8 [13066] forked
+stress: dbug: [13060] using backoff sleep of 21000us
+stress: dbug: [13060] setting timeout to 30000s
+stress: info: [13062] dispatching hogs: 8 cpu, 0 io, 0 vm, 0 hdd
+stress: dbug: [13062] using backoff sleep of 24000us
+stress: dbug: [13062] setting timeout to 30000s
+stress: dbug: [13062] --> hogcpu worker 8 [13070] forked
+stress: dbug: [13062] using backoff sleep of 21000us
+stress: dbug: [13062] setting timeout to 30000s
+stress: info: [13068] dispatching hogs: 8 cpu, 0 io, 0 vm, 0 hdd
+stress: dbug: [13068] using backoff sleep of 24000us
+stress: dbug: [13068] setting timeout to 30000s
+stress: dbug: [13068] --> hogcpu worker 8 [13072] forked
+stress: dbug: [13068] using backoff sleep of 21000us
+stress: dbug: [13068] setting timeout to 30000s
+stress: dbug: [13068] --> hogcpu worker 7 [13073] forked
+stress: dbug: [13068] using backoff sleep of 18000us
+stress: dbug: [13068] setting timeout to 30000s
+stress: dbug: [13060] --> hogcpu worker 7 [13067] forked
+stress: dbug: [13060] using backoff sleep of 18000us
+stress: dbug: [13060] setting timeout to 30000s
+stress: dbug: [13060] --> hogcpu worker 6 [13077] forked
+stress: dbug: [13060] using backoff sleep of 15000us
+stress: dbug: [13060] setting timeout to 30000s
+stress: dbug: [13060] --> hogcpu worker 5 [13078] forked
+stress: dbug: [13060] using backoff sleep of 12000us
+stress: dbug: [13060] setting timeout to 30000s
+stress: dbug: [13060] --> hogcpu worker 4 [13079] forked
+stress: dbug: [13060] using backoff sleep of 9000us
+stress: dbug: [13060] setting timeout to 30000s
+stress: dbug: [13060] --> hogcpu worker 3 [13080] forked
+stress: dbug: [13060] using backoff sleep of 6000us
+stress: dbug: [13060] setting timeout to 30000s
+stress: dbug: [13060] --> hogcpu worker 2 [13081] forked
+stress: dbug: [13060] using backoff sleep of 3000us
+stress: dbug: [13060] setting timeout to 30000s
+stress: dbug: [13060] --> hogcpu worker 1 [13082] forked
+stress: dbug: [13061] --> hogcpu worker 6 [13065] forked
+stress: dbug: [13061] using backoff sleep of 15000us
+stress: dbug: [13061] setting timeout to 30000s
+stress: dbug: [13061] --> hogcpu worker 5 [13083] forked
+stress: dbug: [13061] using backoff sleep of 12000us
+stress: dbug: [13061] setting timeout to 30000s
+stress: dbug: [13061] --> hogcpu worker 4 [13084] forked
+stress: dbug: [13061] using backoff sleep of 9000us
+stress: dbug: [13061] setting timeout to 30000s
+stress: dbug: [13061] --> hogcpu worker 3 [13085] forked
+stress: dbug: [13061] using backoff sleep of 6000us
+stress: dbug: [13061] setting timeout to 30000s
+stress: dbug: [13061] --> hogcpu worker 2 [13086] forked
+stress: dbug: [13061] using backoff sleep of 3000us
+stress: dbug: [13061] setting timeout to 30000s
+stress: dbug: [13061] --> hogcpu worker 1 [13087] forked
+stress: info: [13076] dispatching hogs: 8 cpu, 0 io, 0 vm, 0 hdd
+stress: dbug: [13076] using backoff sleep of 24000us
+stress: dbug: [13076] setting timeout to 30000s
+stress: dbug: [13062] --> hogcpu worker 7 [13071] forked
+stress: dbug: [13062] using backoff sleep of 18000us
+stress: dbug: [13062] setting timeout to 30000s
+stress: dbug: [13062] --> hogcpu worker 6 [13090] forked
+stress: dbug: [13062] using backoff sleep of 15000us
+stress: dbug: [13062] setting timeout to 30000s
+stress: dbug: [13062] --> hogcpu worker 5 [13091] forked
+stress: dbug: [13062] using backoff sleep of 12000us
+stress: dbug: [13062] setting timeout to 30000s
+stress: dbug: [13062] --> hogcpu worker 4 [13092] forked
+stress: dbug: [13062] using backoff sleep of 9000us
+stress: dbug: [13062] setting timeout to 30000s
+stress: dbug: [13062] --> hogcpu worker 3 [13093] forked
+stress: dbug: [13062] using backoff sleep of 6000us
+stress: dbug: [13062] setting timeout to 30000s
+stress: dbug: [13062] --> hogcpu worker 2 [13094] forked
+stress: dbug: [13062] using backoff sleep of 3000us
+stress: dbug: [13062] setting timeout to 30000s
+stress: dbug: [13062] --> hogcpu worker 1 [13095] forked
+stress: info: [13088] dispatching hogs: 8 cpu, 0 io, 0 vm, 0 hdd
+stress: dbug: [13088] using backoff sleep of 24000us
+stress: dbug: [13088] setting timeout to 30000s
+stress: dbug: [13088] --> hogcpu worker 8 [13096] forked
+stress: dbug: [13088] using backoff sleep of 21000us
+stress: dbug: [13088] setting timeout to 30000s
+stress: dbug: [13088] --> hogcpu worker 7 [13097] forked
+stress: dbug: [13088] using backoff sleep of 18000us
+stress: dbug: [13088] setting timeout to 30000s
+stress: dbug: [13068] --> hogcpu worker 6 [13074] forked
+stress: dbug: [13068] using backoff sleep of 15000us
+stress: dbug: [13068] setting timeout to 30000s
+stress: dbug: [13068] --> hogcpu worker 5 [13100] forked
+stress: dbug: [13068] using backoff sleep of 12000us
+stress: dbug: [13068] setting timeout to 30000s
+stress: dbug: [13068] --> hogcpu worker 4 [13101] forked
+stress: dbug: [13068] using backoff sleep of 9000us
+stress: dbug: [13068] setting timeout to 30000s
+stress: dbug: [13068] --> hogcpu worker 3 [13102] forked
+stress: dbug: [13068] using backoff sleep of 6000us
+stress: dbug: [13068] setting timeout to 30000s
+stress: dbug: [13068] --> hogcpu worker 2 [13103] forked
+stress: dbug: [13068] using backoff sleep of 3000us
+stress: dbug: [13068] setting timeout to 30000s
+stress: dbug: [13068] --> hogcpu worker 1 [13104] forked
+stress: info: [13105] dispatching hogs: 8 cpu, 0 io, 0 vm, 0 hdd
+stress: dbug: [13105] using backoff sleep of 24000us
+stress: dbug: [13105] setting timeout to 30000s
+stress: dbug: [13105] --> hogcpu worker 8 [13106] forked
+stress: dbug: [13105] using backoff sleep of 21000us
+stress: dbug: [13105] setting timeout to 30000s
+stress: dbug: [13105] --> hogcpu worker 7 [13107] forked
+stress: dbug: [13105] using backoff sleep of 18000us
+stress: dbug: [13105] setting timeout to 30000s
+stress: dbug: [13088] --> hogcpu worker 6 [13098] forked
+stress: dbug: [13088] using backoff sleep of 15000us
+stress: dbug: [13088] setting timeout to 30000s
+stress: dbug: [13088] --> hogcpu worker 5 [13109] forked
+stress: dbug: [13088] using backoff sleep of 12000us
+stress: dbug: [13088] setting timeout to 30000s
+stress: dbug: [13088] --> hogcpu worker 4 [13110] forked
+stress: dbug: [13088] using backoff sleep of 9000us
+stress: dbug: [13088] setting timeout to 30000s
+stress: dbug: [13088] --> hogcpu worker 3 [13111] forked
+stress: dbug: [13088] using backoff sleep of 6000us
+stress: dbug: [13088] setting timeout to 30000s
+stress: dbug: [13088] --> hogcpu worker 2 [13112] forked
+stress: dbug: [13088] using backoff sleep of 3000us
+stress: dbug: [13088] setting timeout to 30000s
+stress: dbug: [13088] --> hogcpu worker 1 [13113] forked
+stress: dbug: [13076] --> hogcpu worker 8 [13089] forked
+stress: dbug: [13076] using backoff sleep of 21000us
+stress: dbug: [13076] setting timeout to 30000s
+stress: dbug: [13076] --> hogcpu worker 7 [13114] forked
+stress: dbug: [13076] using backoff sleep of 18000us
+stress: dbug: [13076] setting timeout to 30000s
+stress: dbug: [13076] --> hogcpu worker 6 [13115] forked
+stress: dbug: [13076] using backoff sleep of 15000us
+stress: dbug: [13076] setting timeout to 30000s
+stress: dbug: [13076] --> hogcpu worker 5 [13116] forked
+stress: dbug: [13076] using backoff sleep of 12000us
+stress: dbug: [13076] setting timeout to 30000s
+stress: dbug: [13076] --> hogcpu worker 4 [13117] forked
+stress: dbug: [13076] using backoff sleep of 9000us
+stress: dbug: [13076] setting timeout to 30000s
+stress: dbug: [13076] --> hogcpu worker 3 [13118] forked
+stress: dbug: [13076] using backoff sleep of 6000us
+stress: dbug: [13076] setting timeout to 30000s
+stress: dbug: [13076] --> hogcpu worker 2 [13119] forked
+stress: dbug: [13076] using backoff sleep of 3000us
+stress: dbug: [13076] setting timeout to 30000s
+stress: dbug: [13076] --> hogcpu worker 1 [13120] forked
+stress: dbug: [13105] --> hogcpu worker 6 [13108] forked
+stress: dbug: [13105] using backoff sleep of 15000us
+stress: dbug: [13105] setting timeout to 30000s
+stress: dbug: [13105] --> hogcpu worker 5 [13121] forked
+stress: dbug: [13105] using backoff sleep of 12000us
+stress: dbug: [13105] setting timeout to 30000s
+stress: dbug: [13105] --> hogcpu worker 4 [13122] forked
+stress: dbug: [13105] using backoff sleep of 9000us
+stress: dbug: [13105] setting timeout to 30000s
+stress: dbug: [13105] --> hogcpu worker 3 [13123] forked
+stress: dbug: [13105] using backoff sleep of 6000us
+stress: dbug: [13105] setting timeout to 30000s
+stress: dbug: [13105] --> hogcpu worker 2 [13124] forked
+stress: dbug: [13105] using backoff sleep of 3000us
+stress: dbug: [13105] setting timeout to 30000s
+stress: dbug: [13105] --> hogcpu worker 1 [13125] forked
+stress: info: [13127] dispatching hogs: 8 cpu, 0 io, 0 vm, 0 hdd
+stress: dbug: [13127] using backoff sleep of 24000us
+stress: dbug: [13127] setting timeout to 30000s
+stress: dbug: [13127] --> hogcpu worker 8 [13128] forked
+stress: dbug: [13127] using backoff sleep of 21000us
+stress: dbug: [13127] setting timeout to 30000s
+stress: dbug: [13127] --> hogcpu worker 7 [13129] forked
+stress: dbug: [13127] using backoff sleep of 18000us
+stress: dbug: [13127] setting timeout to 30000s
+stress: dbug: [13127] --> hogcpu worker 6 [13130] forked
+stress: dbug: [13127] using backoff sleep of 15000us
+stress: dbug: [13127] setting timeout to 30000s
+stress: dbug: [13127] --> hogcpu worker 5 [13131] forked
+stress: dbug: [13127] using backoff sleep of 12000us
+stress: dbug: [13127] setting timeout to 30000s
+stress: dbug: [13127] --> hogcpu worker 4 [13132] forked
+stress: dbug: [13127] using backoff sleep of 9000us
+stress: dbug: [13127] setting timeout to 30000s
+stress: dbug: [13127] --> hogcpu worker 3 [13133] forked
+stress: dbug: [13127] using backoff sleep of 6000us
+stress: dbug: [13127] setting timeout to 30000s
+stress: dbug: [13127] --> hogcpu worker 2 [13134] forked
+stress: dbug: [13127] using backoff sleep of 3000us
+stress: dbug: [13127] setting timeout to 30000s
+stress: dbug: [13127] --> hogcpu worker 1 [13135] forked

@@ -1,0 +1,136 @@
+current time is: 03:15:01
+The docker status is  : running
+The docker version is : 27.3.1
+
+current time is: 03:16:01
+The docker status is  : running
+The docker version is : 27.3.1
+
+current time is: 03:17:01
+The docker status is  : running
+The docker version is : 27.3.1
+
+current time is: 03:18:01
+The docker status is  : running
+The docker version is : 27.3.1
+
+current time is: 03:19:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:20:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:21:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:22:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:23:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:24:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:25:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:26:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:27:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:28:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:29:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:30:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:31:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:32:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:33:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:34:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:35:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:36:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:37:02
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:38:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:39:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:40:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:41:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:42:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:43:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:44:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:45:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:46:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:47:01
+The docker status is  : dead
+The docker version is : 27.3.1
+
+current time is: 03:48:01
+The docker status is  : dead
+The docker version is : 27.3.1
+

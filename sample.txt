@@ -1,0 +1,5 @@
+hello guys i know this is tooo booring
+current time is: 03:13:04
+The docker status is  : running
+The docker version is : 27.3.1
+
