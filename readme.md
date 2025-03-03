@@ -1,5 +1,5 @@
-> Manoj:
 1. Disk Space Monitoring Script
+```shell
 #!/bin/bash
 
 THRESHOLD=90
@@ -10,8 +10,9 @@ disk_usage=$(df / | tail -1 | awk '{print $5}' | sed 's/%//')
 if [ "$disk_usage" -gt "$THRESHOLD" ]; then
   echo "Disk usage is above $THRESHOLD%. Current usage: $disk_usage%" | mail -s "Disk Space Alert" $EMAIL
 fi
-
+```
 2. Backup Script
+```shell
 #!/bin/bash
 
 SOURCE_DIR="/var/www/html"
@@ -19,8 +20,9 @@ DEST_DIR="/backup/server/"
 REMOTE_SERVER="user@remote_server:/backup/"
 
 rsync -avz --delete $SOURCE_DIR $REMOTE_SERVER$DEST_DIR
-
+```
 3.Log Rotation Script
+```shell
 #!/bin/bash
 
 LOG_DIR="/var/log/myapp"
@@ -34,8 +36,9 @@ for logfile in $LOG_DIR/*; do
     gzip $LOG_ARCHIVE_DIR/$(basename "$logfile").$(date +%F).gz
   fi
 done
-
+```
 4.MySQL Database Backup
+```shell
 #!/bin/bash
 
 DB_USER="root"
@@ -53,8 +56,9 @@ if [ $? -eq 0 ]; then
 else
   echo "Backup failed!" | mail -s "MySQL Backup Failure" admin@example.com
 fi
-
+```
 5. Server Health Monitoring
+```shell
 shell
 shell
 shell
@@ -79,17 +83,18 @@ fi
 if [ $(echo "$LOAD > $LOAD_THRESHOLD" | bc) -eq 1 ]; then
   echo "System load is high: $LOAD" | mail -s "High System Load Alert" admin@example.com
 fi
+```
 
-> Manoj:
 6. Automated Software Updates
+```shell
 #!/bin/bash
 
 sudo apt update && sudo apt upgrade -y
 sudo apt autoremove -y
-
-
+```
 
 7. Cron Job Status Monitoring
+```shell
 #!/bin/bash
 
 CRON_LOG="/var/log/syslog"
@@ -98,11 +103,11 @@ ERROR_COUNT=$(grep "CRON" $CRON_LOG | grep -i "error" | wc -l)
 if [ $ERROR_COUNT -gt 0 ]; then
   echo "There were $ERROR_COUNT cron job errors." | mail -s "Cron Job Error Alert" admin@example.com
 fi
-
-
+```
 
 8. System Resource Cleanup
 
+```shell
 #!/bin/bash
 
 # Clear apt cache (Debian/Ubuntu)
@@ -113,9 +118,10 @@ find /var/log -type f -name "*.log" -exec rm -f {} \;
 
 # Clear temp files
 rm -rf /tmp/*
+```
 
-> Manoj:
 9. SSL Certificate Expiry Check
+```shell
 #!/bin/bash
 
 DOMAIN="example.com"
@@ -130,4 +136,4 @@ DAYS_LEFT=$(( ($EXPIRY_DATE_TIMESTAMP - $CURRENT_DATE_TIMESTAMP) / 86400 ))
 if [ $DAYS_LEFT -lt $THRESHOLD_DAYS ]; then
   echo "SSL certificate for $DOMAIN will expire in $DAYS_LEFT days." | mail -s "SSL Certificate Expiry Alert" admin@example.com
 fi
-
+```
