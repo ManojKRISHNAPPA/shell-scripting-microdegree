@@ -3,6 +3,7 @@
 # Update and install msmtp
 sudo apt-get update
 sudo apt-get install -y msmtp msmtp-mta ca-certificates
+apt install mailutils -y
 
 # Create the msmtp configuration directory
 mkdir -p ~/.msmtp
